@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without providing any clear error messages in the console.  This made debugging extremely difficult. The crash would manifest differently each time, sometimes involving a blank screen, other times an error related to Metro bundler failing silently. No consistent pattern emerged.
